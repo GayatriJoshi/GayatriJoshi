@@ -4,7 +4,7 @@
 <img width=400 alt="Coding" align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrijoshi&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrijoshi" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrijoshi" alt="gayatrijoshi" /></a> </p>-->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatrijoshi" alt="gayatrijoshi" /></a> </p> -->
 
 - 🌱 I’m currently learning **Google Cloud Platform,APIs,Frontend frameworks**
 
@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gayatri joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayatri joshi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gayatri joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gayatri joshi" height="30" width="40" /></a>
 <a href="https://instagram.com/gayatri.joshi175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gayatri.joshi175" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gayatri175_j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gayatri175_j" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gayatri joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gayatri joshi" height="30" width="40" /></a>
